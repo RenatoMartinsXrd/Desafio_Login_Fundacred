@@ -1,17 +1,17 @@
 import React from 'react'
 import styles from './LabelField.module.css'
 
-export const Text = ({ label, name, register, ...props }) => {
+export const Text = ({ label, name, ...props }) => {
   return (
     <label className={styles.containerLabelInput}>
+      <span className={styles.label}>{label}</span>
       <input
         type="text"
         name={name}
-        {...register(name)}
+        // {...register(name)}
         className={styles.input}
         {...props}
       />
-      <span className={styles.label}>{label}</span>
     </label>
   )
 }

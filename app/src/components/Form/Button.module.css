@@ -1,0 +1,17 @@
+.btn {
+  height: 60px;
+  -webkit-transition: all 200ms linear;
+  transition: all 200ms linear;
+  padding: 0 30px;
+  letter-spacing: 1px;
+  border: none;
+  background: #255EC5;
+  border-radius: 30px;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #40B08B;
+  color: #fff;
+  box-shadow: 0 8px 24px 0 rgba(16, 39, 112, .2);
+}
