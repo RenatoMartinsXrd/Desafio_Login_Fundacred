@@ -3,6 +3,7 @@ import { FormLogin } from '../forms/Login/FormLogin'
 import styles from './LoginPage.module.css'
 import logo from '../assets/Logo_50_anos.png'
 import iconVestibular from '../assets/iconVestibular.svg'
+import logoFooter from '../assets/logos_footer.png'
 
 export const LoginPage = () => {
   return (
@@ -14,6 +15,8 @@ export const LoginPage = () => {
           <span className={styles.titleSpanBanner}> acessar</span>
           <h2 className={styles.titleSpanBanner}> sua conta</h2>
         </div>
+
+        <img src={logoFooter} alt="logo footer" className={styles.logoFooter} />
       </section>
 
       <section className={styles.containerSectionForm}>
