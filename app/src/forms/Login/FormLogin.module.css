@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "GothamBook";
+  src: local("GothamBook"),
+    url("../../fonts/GothamBook.ttf") format("truetype");
+  font-weight: normal;
+}
+
+
+.buttonLogin {
+  align-self: center;
+  margin-top: 40px;
+}
+
+.containerLinks {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  gap: 30px;
+  width: 80%;
+}
+
+.containerLinks a {
+  font-family: GothamBook;
+  font-style: normal;
+  text-decoration-line: underline;
+  color: #004597;
+  font-size: calc(0.5em + 0.7vw);
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0.004em;
+  text-align: center;
+}

@@ -29,17 +29,12 @@
   font-weight: 600;
 }
 
-/* .input:focus {
-  border: 3px solid black;
-} */
-
 .label {
   font-family: 'GothamBook';
   font-style: normal;
   font-weight: 500;
-  font-size: 18px;
+  font-size: calc(0.7em + 0.7vw);
   line-height: 26px;
-  /* identical to box height, or 144% */
   display: flex;
   align-items: center;
   text-align: center;
@@ -47,4 +42,10 @@
   align-self: center;
   align-content: center;
   color: #004597;
+}
+
+@media screen and (max-width: 1024px) {
+  .input {
+    height: 35px;
+  }
 }
