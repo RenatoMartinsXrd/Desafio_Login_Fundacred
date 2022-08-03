@@ -4,7 +4,7 @@ import styles from './LoginPage.module.css'
 import logo from '../assets/Logo_50_anos.png'
 import iconVestibular from '../assets/iconVestibular.svg'
 
-export const LoginPage = ({}) => {
+export const LoginPage = () => {
   return (
     <div className={styles.containerLoginPage}>
       <section className={styles.containerSectionBanner}>
