@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Desafio_Login_Fundacred/static/css/main.2fe9a5d8.css",
-    "main.js": "/Desafio_Login_Fundacred/static/js/main.9d6bbb6d.js",
+    "main.css": "/Desafio_Login_Fundacred/static/css/main.5cfd9b92.css",
+    "main.js": "/Desafio_Login_Fundacred/static/js/main.ad2420f7.js",
     "static/media/GothamBook.ttf": "/Desafio_Login_Fundacred/static/media/GothamBook.58fb9151c57e59668f17.ttf",
     "static/media/GothamLight.ttf": "/Desafio_Login_Fundacred/static/media/GothamLight.03e7ff609ba3bf798fa4.ttf",
     "static/media/prismas 1.png": "/Desafio_Login_Fundacred/static/media/prismas 1.ec95caef7e24043b5f20.png",
     "static/media/GothamBold.ttf": "/Desafio_Login_Fundacred/static/media/GothamBold.108854bb27dee2dce854.ttf",
     "index.html": "/Desafio_Login_Fundacred/index.html",
     "static/media/iconVestibular.svg": "/Desafio_Login_Fundacred/static/media/iconVestibular.9bd35f377bc172849216840a87ec5beb.svg",
-    "main.2fe9a5d8.css.map": "/Desafio_Login_Fundacred/static/css/main.2fe9a5d8.css.map",
-    "main.9d6bbb6d.js.map": "/Desafio_Login_Fundacred/static/js/main.9d6bbb6d.js.map"
+    "main.5cfd9b92.css.map": "/Desafio_Login_Fundacred/static/css/main.5cfd9b92.css.map",
+    "main.ad2420f7.js.map": "/Desafio_Login_Fundacred/static/js/main.ad2420f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fe9a5d8.css",
-    "static/js/main.9d6bbb6d.js"
+    "static/css/main.5cfd9b92.css",
+    "static/js/main.ad2420f7.js"
   ]
 }
